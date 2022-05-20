@@ -1,0 +1,35 @@
+
+
+.normal{
+    padding-top: 2rem;
+    text-align: center;
+    width: 50%;
+    aspect-ratio: 1/1;
+    background-color: #1389B2;
+
+}
+
+.fizz{
+    padding-top: 2rem;
+    text-align: center;
+    width: 50%;
+    aspect-ratio: 1/1;
+    background-color: #0BD6A1;
+
+}
+
+.buzz{
+    padding-top: 2rem;
+    text-align: center;
+    width: 50%;
+    aspect-ratio: 1/1;
+    background-color: #FFD166;
+}
+
+.fizz-buzz{
+    padding-top: 2rem;
+    text-align: center;
+    width: 50%;
+    aspect-ratio: 1/1;
+    background-color: #F0466F;
+}
